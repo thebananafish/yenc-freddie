@@ -2,12 +2,12 @@ yenc-freddie 0.3
 ================
 
 Disclaimer: 
-
+-----------
 Not my software, just figured I would put it on github, since
 it would appear that this is somewhat hard to find.
 
 Use: 
-
+----
 This a fairly simple module, it provide only raw yEnc encoding/decoding with
 builitin crc32 calculation.
 Header parsing, checkings and yenc formatting are left to you (see examples 
@@ -36,7 +36,7 @@ How to use with newsmangler:
 4.  Change HAVE_YENC_FRED = ('Freddie mod' in _yenc.__doc__)
 		to
 	HAVE_YENC_FRED = ('Freddie' in _yenc.__doc__)
-```bash
+```
 
 
 
@@ -44,5 +44,5 @@ How to use with newsmangler:
 
 
 For more information check out README-ORIGINAL
-
+----------------------------------------------
 
